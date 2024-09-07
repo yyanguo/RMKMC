@@ -3,6 +3,8 @@ The codes used in "Restarted Multiple Kernel Algorithms with Self-Guiding for La
 
 Run "demo_RMKMC.m" to test the algorithm.
 
+Email: guoyy@cumt.edu.cn
+
 # Datasets:
 
 PIE: http://vasc.ri.cmu.edu/idb/html/face/.
